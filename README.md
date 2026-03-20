@@ -34,5 +34,5 @@ Future Improvements
 - Improve model accuracy with larger datasets.  
 - Build a user-friendly web/mobile interface.  
 
-Live Demo (Optional)
+Live Demo
 https://farmer-xqkw8qpwkhyejkjh4gzexp.streamlit.app/
